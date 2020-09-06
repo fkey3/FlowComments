@@ -13,7 +13,7 @@
   {
     "en": "Simple cards to add comments to flows",
     "nl": "Eenvoudige kaarten, voeg notities aan flows toe",
-    "de": "Einfache Karten, um Kommentare zu Flows hinzuzufügen"
+    "de": "Einfache Karten um Kommentare zu Flows hinzuzufügen"
   },
   "category":
   [
@@ -91,7 +91,7 @@
             {
              "en": "Add a comment...",
              "nl": "Voeg een notitie toe...",
-             "de": "Einen Kommentar hinfügen..."
+             "de": "Einen Kommentar hinzufügen..."
             }
           }
         ],
@@ -127,7 +127,7 @@
         {
           "en": "This condition card is always true. Its not active. It only allows the user to add a comment. Use the FixThis comment to add comment when you where you need to improve a flow. This special type makes it easy to find them",
           "nl": "Deze conditie kaart is altijd waar. Deze is niet actief. Het geeft de gebruiker de mogelijkheid notities toe te voegen. Gebruik nog Oplossen om een notitie te maken in een flow die nog verbetering nodig heeft. De nog oplossen kaart maakt het makkelijker deze terug te vinden",
-          "de": "Diese Bedingungskarte ist immer wahr. Sie ist nicht aktiv. Der Benutzer kann nur einen Kommentar hinzufügen. Verwenden Sie den RepariereDies-Kommentar, um einen Kommentar hinzuzufügen, wenn Sie einen Flow optimieren möchten. Dieser spezielle Typ macht das Wiederfinden leicht."
+          "de": "Diese Bedingungskarte ist immer wahr. Sie ist nicht aktiv. Der Benutzer kann nur einen Kommentar hinzufügen. Verwenden Sie den RepariereDies-Kommentar um einen Kommentar hinzuzufügen, wenn Sie einen Flow optimieren möchten. Dieser spezielle Typ macht das Wiederfinden leicht."
         }
       }
     ],
@@ -186,7 +186,7 @@
         {
           "en":"This action card does not trigger an action. Its not active. It only allows the user to add a comment. Use the FixThis comment to add comment when you where you need to improve a flow. This special type makes it easy to find them",
           "nl":"Deze actie kaart is geen actie. Deze is niet actief. Het geeft de gebruiker de mogelijkheid notities toe te voegen. Gebruik nog Oplossen om een notitie te maken in een flow die nog verbetering nodig heeft. De nog oplossen kaart maakt het makkelijker deze terug te vinden",
-          "de": "Diese Bedingungskarte ist immer wahr. Sie ist nicht aktiv. Der Benutzer kann nur einen Kommentar hinzufügen. Verwenden Sie den RepariereDies-Kommentar, um einen Kommentar hinzuzufügen, wenn Sie einen Flow optimieren möchten. Dieser spezielle Typ macht das Wiederfinden leicht."
+          "de": "Diese Bedingungskarte ist immer wahr. Sie ist nicht aktiv. Der Benutzer kann nur einen Kommentar hinzufügen. Verwenden Sie den RepariereDies-Kommentar um einen Kommentar hinzuzufügen, wenn Sie einen Flow optimieren möchten. Dieser spezielle Typ macht das Wiederfinden leicht."
         }
       }
     ]
