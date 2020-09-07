@@ -6,4 +6,8 @@
   "1.0.1": {
     "en": "changed the appname, removed languages created by google translate"
   }
+},
+  "1.0.2": {
+    "en": "fixed grammar issues in German language (readme.de.txt, app.json)"
+  }
 }
