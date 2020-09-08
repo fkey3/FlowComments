@@ -1,13 +1,16 @@
 {
   "1.0.0": {
-    "en": "1st release"
+    "nl": "eerste release",
+    "en": "first release"
   }
 },
   "1.0.1": {
-    "en": "changed the appname, removed languages created by google translate"
+    "nl": "appnaam veranderd, de mbv google translate gegenereerde vertalingen verwijderd (Athom kwaliteitsvoorwaarde)",
+    "en": "changed the appname, removed languages created by google translate (Athom quality requirement)"
   }
 },
   "1.0.2": {
+    "nl": "grammatical fouten in duits opgelost (readme.de.txt, app.json)",
     "en": "fixed grammar issues in German language (readme.de.txt, app.json)"
   }
 }
