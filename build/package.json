@@ -1,0 +1,8 @@
+{
+  "name": "nu.fkey.test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "homey": "^2.5.1"
+  }
+}
